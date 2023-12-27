@@ -1,2 +1,4 @@
 # GitDemo
-This is my first github repository using git.
+This is my first Git repository.
+<br>
+Author - Sourav Routray
